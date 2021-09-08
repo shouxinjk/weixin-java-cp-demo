@@ -22,7 +22,7 @@ import me.chanjar.weixin.cp.util.crypto.WxCpCryptUtil;
  * @author Binary Wang(https://github.com/binarywang)
  */
 @RestController
-@RequestMapping("/wx/cp/portal/{agentId}")
+@RequestMapping("/ilife-wework/wework/portal/{agentId}")
 public class WxPortalController {
   private final Logger logger = LoggerFactory.getLogger(this.getClass());
 
